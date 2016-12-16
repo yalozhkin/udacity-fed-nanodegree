@@ -1,0 +1,120 @@
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+/* entypo */
+
+[class*="entypo-"]:before {
+  font-family: "entypo", sans-serif;
+}
+
+/* custom globals */
+
+html {
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+@media (max-width: 768px) {
+  html {
+    font-size: 0.8em;
+  }
+}
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Palanquin", sans-serif;
+  font-weight: 500;
+  line-height: 0.85em;
+}
+h1, h2, h3 {
+  font-weight: 700;
+}
+header, section, footer {
+  padding: 2rem 0 1rem 0;
+}
+
+/* custom Bootstrap components */
+
+.container {
+  min-width: 18rem;
+}
+.card {
+  border: 0;
+  margin: 1.5rem 0;
+  background: #f9f9f9;
+}
+.card:hover {
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+}
+.card-img-top {
+  border-radius: 0;
+}
+.card-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+.card-text {
+  color: #666;
+}
+.text-muted {
+  color: #999;
+}
+.navbar-brand> img {
+  display: block;
+  height: 2.5rem;
+}
+
+/* unique project components */
+
+.brand-title {
+  font-size: 1.75rem;
+}
+.brand-subtitle {
+  font-size: 1rem;
+  color: #999;
+}
+#hero {
+  padding: 2rem 0;
+  position: relative;
+}
+.hero-block:hover {
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+}
+.hero-title {
+  font-size: 4em;
+  text-align: center;
+}
+.hero-image {
+  width: auto;
+  height: auto;
+}
+.hero-content {
+  padding: 0 2rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-40%);
+  width: calc(100% - 1.875rem);
+}
+.section-title {
+  font-size: 2em;
+  text-align: center;
+}
+#links {
+  text-align: center;
+}
+.social-links li {
+  display: inline-block;
+  height: 2rem;
+  font-size: 2rem;
+  line-height: 2rem;
+  list-style: none;
+  padding: 0.5em;
+}
+.social-links a {
+  color: #999;
+  opacity: 0.5;
+}
+.social-links a:hover {
+  text-decoration: none;
+  opacity: 1;
+}

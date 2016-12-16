@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* I have learned about the structure of an article. I was familiar with the basics before but figured out many new details. It was refreshing!
+* That was easy to handle basic things like links, paragraphs, headings.
+* I had some doubts about using the style attribute in tags and the requirement to get a page exactly as a screenshot provided. The actual GIF asset was smaller comparing to the screenshot's version (actually,  it was blurry of the screenshot).
+* I coded step by step, from the easiest things to more complex ones. It gave me self-confidence and control on the project.

@@ -1,0 +1,39 @@
+body {
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    line-height: 1.2;
+}
+h3, ul, li, div, img {
+    margin: 0;
+    padding: 0;
+}
+.card {
+    border: solid 1px #ccc;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    padding: 10px 15px 15px 15px;
+    width: 300px;
+}
+.card h3 {
+    font-size: 2em;
+    line-height: 1.8;
+}
+.card img {
+    width: 300px;
+}
+.card li {
+    list-style: none;
+    font-style: italic;
+}
+.card li span {
+    font-weight: bold;
+    font-style: normal;
+}
+.card .info {
+    border: solid 1px #ccc;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+.card .fact {
+    font-style: italic;
+}
