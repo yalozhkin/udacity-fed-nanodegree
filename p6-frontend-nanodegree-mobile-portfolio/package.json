@@ -1,0 +1,36 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio",
+  "version": "1.0.0",
+  "description": "Web project optimization tweaks",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-responsive": "^2.7.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalozhkin/frontend-nanodegree-mobile-portfolio.git"
+  },
+  "keywords": [
+    "optimization",
+    "udacity",
+    "fed",
+    "nanodegree"
+  ],
+  "author": "Yaroslav Lozhkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yalozhkin/frontend-nanodegree-mobile-portfolio/issues"
+  },
+  "homepage": "https://github.com/yalozhkin/frontend-nanodegree-mobile-portfolio#readme"
+}
